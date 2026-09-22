@@ -1,9 +1,0 @@
-com/mohit/battleground/player/PlayerController.class
-com/mohit/battleground/MohitBattleGroundApplication.class
-com/mohit/battleground/player/PlayerService.class
-com/mohit/battleground/match/MatchController.class
-com/mohit/battleground/player/Player.class
-com/mohit/battleground/match/MatchRepository.class
-com/mohit/battleground/match/Match.class
-com/mohit/battleground/match/MatchService.class
-com/mohit/battleground/player/PlayerRepository.class

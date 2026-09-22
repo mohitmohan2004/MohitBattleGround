@@ -1,3 +1,7 @@
+# Java / Maven
+target/
+*.class
+
 # Unity
 [Ll]ibrary/
 [Tt]emp/
@@ -7,19 +11,10 @@
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 
-# Unity generated files
-MemoryCaptures/
-Recordings/
-
 # IDE
 .vscode/
 .idea/
 .DS_Store
-
-# Build files
-*.apk
-*.aab
-*.unitypackage
 
 # Node
 node_modules/
