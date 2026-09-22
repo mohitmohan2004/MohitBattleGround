@@ -1,0 +1,30 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity generated files
+MemoryCaptures/
+Recordings/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Build files
+*.apk
+*.aab
+*.unitypackage
+
+# Node
+node_modules/
+dist/
+
+# Environment / secrets
+.env
+.env.*
